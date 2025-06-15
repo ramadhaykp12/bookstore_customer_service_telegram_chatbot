@@ -9,4 +9,6 @@ It can help customers with:
 - Viewing book prices
 - Verifying stock availability
 - And answering other book-related questions
-This project demonstrates how to combine structured databases with cutting-edge language models to create a practical, intelligent customer support solution.
+
+
+This project demonstrates how to integrate structured databases with cutting-edge language models to create a practical and intelligent customer support solution.
