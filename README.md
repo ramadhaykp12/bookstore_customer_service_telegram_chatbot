@@ -10,3 +10,15 @@ It can help customers with:
 - Verifying stock availability
 - And answering other book-related questions
 
+## Installation
+Clone this repository:
+```bash
+git clone https://github.com/ramadhaykp12/bookstore_customer_service_telegram_chatbot.git
+cd bookstore_customer_service_telegram_chatbot
+```
+
+Install all required dependencies:
+```
+pip install -r requirements.txt
+```
+
